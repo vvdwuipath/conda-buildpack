@@ -5,6 +5,7 @@ channels:
 - conda-forge
 - matsci
 - abinit
+- allow_other_channels=TRUE
 dependencies:
 - alabaster
 - anaconda-project

@@ -2,6 +2,7 @@ name: heads_web3
 channels:
 - defaults
 - main
+- conda-forge
 dependencies:
 - alabaster
 - anaconda-project

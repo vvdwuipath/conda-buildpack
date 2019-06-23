@@ -25,7 +25,6 @@ dependencies:
 - click
 - clyent
 - colorama
-- comtypes
 - conda-verify
 - contextlib2
 - cryptography
@@ -53,7 +52,6 @@ dependencies:
 - markupsafe
 - matplotlib
 - mccabe
-- menuinst
 - mistune
 - mpmath
 - msgpack-python
@@ -80,8 +78,6 @@ dependencies:
 - pyodbc
 - pyparsing
 - pywavelets
-- pywin32
-- pywinpty
 - pyyaml
 - pyzmq
 - qtawesome
@@ -106,9 +102,7 @@ dependencies:
 - urllib3
 - wcwidth
 - webencodings
-- wincertstore
 - wrapt
 - xlrd
-- xlwings
 - xlwt
 - zict

@@ -3,6 +3,8 @@ channels:
 - defaults
 - main
 - conda-forge
+- matsci
+- abinit
 dependencies:
 - alabaster
 - anaconda-project
